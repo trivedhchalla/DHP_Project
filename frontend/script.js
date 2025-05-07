@@ -1,7 +1,7 @@
     // Common utility functions for all pages
 
     // Base API URL with /api prefix
-    const API_BASE_URL = 'https://dhpproject1.netlify.app/api';
+    const API_BASE_URL = 'https://dhp-project-2-1n7f.onrender.com/api';
 
     // GDP APIs
     async function fetchGDPData(year = '2023', population = 0) {
