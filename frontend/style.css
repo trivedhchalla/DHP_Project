@@ -58,7 +58,7 @@ body {
 
 /* Main Container */
 .container {
-    max-width: 1200px;
+    max-width: 100%;
     margin: 40px auto;
     padding: 35px;
     transition: transform 0.3s ease;
